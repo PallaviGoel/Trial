@@ -1,6 +1,1 @@
-#include<bits/stdc++.h>
-using namespace std;
-int main()
-{
-cout<<"Learn to use Github";
-}
+{ "name":"John", "age":30, "car":null }
