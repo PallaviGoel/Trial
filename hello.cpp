@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Pallavi Goel",
+    "name": "BMW",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "address": {
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "name": "Siddharth Gorey",
+    "name": "AUDI",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "address": {
@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "name": "Neha Jain",
+    "name": "Maruti",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "address": {
@@ -70,7 +70,7 @@
   },
   {
     "id": 4,
-    "name": "Prerna Jain",
+    "name": "Vegnar",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "address": {
