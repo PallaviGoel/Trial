@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "BMW",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "name": "Pallavi Goel",
+    "username": "Smart",
+    "email": "cute@gmail",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "name": "AUDI",
+    "name": "AN",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "address": {
