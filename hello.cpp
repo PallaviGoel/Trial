@@ -1,9 +1,9 @@
 [
   {
-    "id": 1,
+    "id":01,
     "name": "Pallavi Goel",
-    "username": "Smart",
-    "email": "cute@gmail",
+    "username": "Smart Girl",
+    "email": "cute@gmail.com",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
